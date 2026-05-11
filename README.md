@@ -70,11 +70,11 @@ Remove Unnecessary Rows
 ↓  
 Final Cleaned Dataset  
 
-## Project Resources
+# Project Resources
 
 | Resource | Link |
 |---|---|
-| SQL Cleaning Script | [View SQL File](./layoffs_data_cleaning.sql) |
-| Project Documentation | [View Documentation](./SQL_Data_Cleaning_Project_Documentation.docx) |
-| Dataset | [View Dataset](./dataset.csv) |
-| Screenshots | [Open Screenshots Folder](./screenshots) |
+| SQL Cleaning Script | [View SQL File](./Layoffs_dataset_cleaning_Project.sql) |
+| Project Documentation | [View Documentation](./Layoffs_Data_Cleaning_Project_SQL.pdf) |
+| Dataset | [View Dataset](./layoffs.csv) |
+| Project Demo Video | [Watch Demo](./Project%20Demo.mp4) |
