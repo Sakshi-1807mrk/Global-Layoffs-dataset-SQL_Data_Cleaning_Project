@@ -1,6 +1,6 @@
 # SQL Data Cleaning Project – Global Layoffs Dataset
 
-![Workflow Image](https://raw.githubusercontent.com/Sakshi-1807mrk/YOUR-REPO-NAME/main/Workflow%20image.jpeg)
+![Workflow Image](https://raw.githubusercontent.com/Sakshi-1807mrk/Global-Layoffs-dataset-SQL_Data_Cleaning_Project/main/Workflow%20image%20.jpeg)
 
 ## Project Objective
 The goal of this project focuses on cleaning and standardizing a real-world global layoffs dataset using SQL in MySQL Workbench. The objective was to transform raw and inconsistent data into a clean, reliable, and analysis-ready dataset suitable for Exploratory Data Analysis (EDA), reporting, and visualization.
